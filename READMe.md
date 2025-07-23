@@ -37,8 +37,18 @@
 
 ## Other Blockchain Benefits
 
-1. **Decentralized:**
+1. **Decentralized**
 
 - Smart contracts are decentralized without any intermediaries.
 - Different individuals that own this blockchain are called `node operators`.
-- And it is the combination of these thousand of `node operators`, running this algorithm, smart contract and the same software that make the network decentralized.
+- And it is the combination of these thousand of `node operators`, running this algorithm, smart contract and the same software that makes the network decentralized.
+
+2. **Transparency & Flexibility**
+
+- In the decentralized network, since all these individual `node operators` runs the software (at the same time), everybody can see what's happening on-chain.
+- Every operator has perfect information and has to play by the same rules, meaning that there's no privacy.
+- And besides, blockchain is pseudo-anomnymous which means one is not necessarily tied to an identity in the real world.
+
+3. **speed & Efficiency**
+
+- Bank transfers especially offshore takes longer, while transactions on the blockchain networks happens instantly.
