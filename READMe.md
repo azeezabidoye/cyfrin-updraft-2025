@@ -34,3 +34,11 @@
 - This gives rises to both on-chain and off-chain logics being decentralized, giving us all the features that traditional agreement have.
 - The digital currencies like the Bitcoin and Ethereum have value, even without the smart contract part.
 - Smart contract value = Trust Minimized Agreement (Unbreakable promises).
+
+## Other Blockchain Benefits
+
+1. **Decentralized:**
+
+- Smart contracts are decentralized without any intermediaries.
+- Different individuals that own this blockchain are called `node operators`.
+- And it is the combination of these thousand of `node operators`, running this algorithm, smart contract and the same software that make the network decentralized.
