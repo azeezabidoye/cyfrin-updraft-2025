@@ -12,6 +12,25 @@
 
 - **Oracle:** Like Chainlink, oracle does the off-chain computation for blockchain e.g prices, currencies, gold, weather, forex etc.
 
-- **Layer 2s:**: Ethereum Layer-2 blockchain solves scalability issues in the Ethereum ecosystem. There are two different types of L2: Optimistic Rollups and Zero Knowledge Rollups.
+- **Layer 2s:** Ethereum Layer-2 blockchain solves scalability issues in the Ethereum ecosystem. There are two different types of L2: Optimistic Rollups and Zero Knowledge Rollups.
 - Optimistic: Arbitrum and Optimism
 - Zero-knowledge: ZKsync/ZKEvm
+
+- **DApp:** A Decentralized Application (DApp) means a combination of many smart contracts.
+
+#### Importance of Web3/Blockchain
+
+- Unbrakable Promises: Blockchain gave the rise to unbreakable promises. Doing the right thing becomes infrastructural.
+
+### Summary
+
+- Bitcoin is the first protocol to take this technology (blockchain) to limelight.
+- And Bitcoin also took Cryptocurrency into the mainstream.
+- Bitcoin was a sort of digital gold or a store of value, able to make transactions between users in a decentralized manner.
+- Ethereum took this technology a bit further by allowing users to create smart contracts
+- Smart contract can also be taught to be a kind of decentralized trust minimized agreement.
+- Smart contracts and Decentralized Apps can access and interact with the real world using something called `Oracle` Decentralized Oracle Networks (DON).
+- Hybrid Smart Contracts are contracts that combines both on-chain logic and off-chain decentralized data and decentralized computation.
+- This gives rises to both on-chain and off-chain logics being decentralized, giving us all the features that traditional agreement have.
+- The digital currencies like the Bitcoin and Ethereum have value, even without the smart contract part.
+- Smart contract value = Trust Minimized Agreement (Unbreakable promises).
