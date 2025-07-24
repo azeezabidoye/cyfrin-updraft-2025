@@ -61,3 +61,7 @@
 - Even if the nodes goes down, so far one of them has a copy of the information, it can always be redistributed.
 - Hacking a blockchain is nearly impossible.
 - All you need to access your information, assets and other valuables is your `Private Key` which serves as your password in the decentralized world.
+
+5. **Counterparty Risk Removal**
+
+- Financial and other institutions don't have our interest at heart and so therefore, the blockchain technology removes intermediaries.
