@@ -76,3 +76,16 @@
 - Users can have multiple accounts in a single wallet.
 - Each account has different `Private keys`.
 - BUT the wallet has only one set of a 12-series words called `Secret Phrase` (Mnemonic Phrase).
+
+### Intro To Gas
+
+- Gas refers to the computational effort required to execute a transaction on the blockchain.
+- Whenever a transaction is initiated, the `gas` serves as the payment made to ensure that the transaction is successful.
+- Blockchain are run by a group of different nodes, the nodes are handled by humans.
+- The nodes operators are referred to as `Miners` (Bitcoin) or `Validators` (Ethereum), depending on the network.
+- These `Miners` gets incentivized for running the blockchain by earning a fraction of the native blockchain currency for processing transactions.
+- The higher the transaction's complexity, the more `gas` it requires.
+- The total transaction can be calculated by multiplying the `gas used` with the `gas price` in Ether (not Gwei).
+- That is; `Transaction Fee` = `gasPrice` x `gasUsed`.
+- The more people are sending transactions at the same time, the more expensive the `Gas Cost` are going to be.
+- `Gas Price` in Ethereum transactions sets the cost per unit of gas specified for the transaction.
