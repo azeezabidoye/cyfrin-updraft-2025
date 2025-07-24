@@ -65,3 +65,14 @@
 5. **Counterparty Risk Removal**
 
 - Financial and other institutions don't have our interest at heart and so therefore, the blockchain technology removes intermediaries.
+
+6. **Trust Minimized Agreement**
+
+- This can also be referred to as programatic unbreakable promise.
+- Blockchain moved users away from brand based agreements to math based agreements.
+
+### Setting Up Wallet
+
+- Users can have multiple accounts in a single wallet.
+- Each account has different `Private keys`.
+- BUT the wallet has only one set of a 12-series words called `Secret Phrase` (Mnemonic Phrase).
