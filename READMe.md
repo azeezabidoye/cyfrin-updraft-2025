@@ -49,6 +49,15 @@
 - Every operator has perfect information and has to play by the same rules, meaning that there's no privacy.
 - And besides, blockchain is pseudo-anomnymous which means one is not necessarily tied to an identity in the real world.
 
-3. **speed & Efficiency**
+3. **Speed & Efficiency**
 
 - Bank transfers especially offshore takes longer, while transactions on the blockchain networks happens instantly.
+
+4. **Security & Immutability**
+
+- Once a smart contract is deployed (mainnet), it can't be changed, altered or tamper with in any way.
+- This makes the security more easy than in a centralized world where someone can hack into the server and alter the information.
+- Even if your computer or backup computer goes down. All of your data is safe, because it's being run on the other decentralized nodes.
+- Even if the nodes goes down, so far one of them has a copy of the information, it can always be redistributed.
+- Hacking a blockchain is nearly impossible.
+- All you need to access your information, assets and other valuables is your `Private Key` which serves as your password in the decentralized world.
