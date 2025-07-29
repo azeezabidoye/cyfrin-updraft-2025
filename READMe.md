@@ -89,3 +89,5 @@
 - That is; `Transaction Fee` = `gasPrice` x `gasUsed`.
 - The more people are sending transactions at the same time, the more expensive the `Gas Cost` are going to be.
 - `Gas Price` in Ethereum transactions sets the cost per unit of gas specified for the transaction.
+
+### How Do Blockchain Work?
