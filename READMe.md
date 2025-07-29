@@ -91,3 +91,7 @@
 - `Gas Price` in Ethereum transactions sets the cost per unit of gas specified for the transaction.
 
 ### How Do Blockchain Work?
+
+- A `hash` is a unioque fixed length string meant to identify a piece of data.
+- `Hash Algorithm` is a function that computes data into a unique `hash`.
+-
