@@ -94,4 +94,6 @@
 
 - A `hash` is a unioque fixed length string meant to identify a piece of data.
 - `Hash Algorithm` is a function that computes data into a unique `hash`.
--
+- `Mining` is the process of finding _solution_ to the blockchain _problem_.
+- Nodes gets paid for mining blocks.
+- A `block` in the blockchain is a list of transactioned `mined` together.
