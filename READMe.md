@@ -97,3 +97,10 @@
 - `Mining` is the process of finding _solution_ to the blockchain _problem_.
 - Nodes gets paid for mining blocks.
 - A `block` in the blockchain is a list of transactions `mined` together.
+- A single `block` contains:
+
+* Block number
+* Nonce
+* Transactions
+* Previous Hash
+* Hash (current)
