@@ -99,8 +99,8 @@
 - A `block` in the blockchain is a list of transactions `mined` together.
 - A single `block` contains:
 
-* Block number
-* Nonce
-* Transactions
-* Previous Hash
-* Hash (current)
+  - Block number
+  - Nonce
+  - Transactions
+  - Previous Hash
+  - Hash (current)
