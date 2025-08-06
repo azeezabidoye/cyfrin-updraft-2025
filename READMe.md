@@ -106,4 +106,4 @@
   - Hash (current)
 
 - The `nonce` is a number used once to find the `solution` to the blockchain `problem`.
-<!-- - Apparently, each transaction is added to a block around the time they are being initiated. -->
+- Apparently, each transaction is added to a block around the time they are being initiated.
