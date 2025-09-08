@@ -110,3 +110,5 @@
 - _Miners_ solve complex arithmetical calculations to generate a new `nonce` which tallies with the block.
 - The `nonce` is the number used to get a new `hash` for the `block`.
 - `nonce` is also used to define the transaction number for an account/address.
+
+### Signing Transactions
