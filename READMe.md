@@ -113,4 +113,4 @@
 
 ### Signing Transactions
 
-- `private key` is a randomly generated
+- `private key` is a randomly generate
